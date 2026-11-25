@@ -117,10 +117,10 @@ All endpoints (except Authentication and Registration) require a valid JWT Token
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Student** | `student@cse.in` | `123456` |
-| **Mentor** | `mentor@clg.in` | `123456` |
-| **HOD** | `hod@clg.in` | `123456` |
-| **Watchman**| `watchman@clg.in` | `123456` |
-| **Admin** | `admin@clg.in` | `123456` |
+| **Mentor** | `mentor@clg.in` | `mentor12` |
+| **HOD** | `hod@clg.in` | `hod12` |
+| **Watchman**| `watchman@clg.in` | `security12` |
+| **Admin** | `admin@clg.in` | `admin12` |
 
 *(Note: Because these demo emails end with `.in`, the system skips sending real emails and displays the OTP directly on the screen for easy testing).*
 
