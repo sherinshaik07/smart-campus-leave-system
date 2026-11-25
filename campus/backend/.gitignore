@@ -1,0 +1,25 @@
+### Environment & Secrets ###
+.env
+*.env
+application.properties
+application-local.properties
+application-secret.properties
+
+### Java / Spring Boot ###
+target/
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+HELP.md
+
+### IDE & OS ###
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+### Node / React ###
+node_modules/
+build/
+dist/
